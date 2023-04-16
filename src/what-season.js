@@ -12,7 +12,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  * 
  */
 function getSeason(date) {
-  throw new NotImplementedError('Not implemented');
+  // throw new NotImplementedError('Not implemented');
   // remove line with error and write your code here
 
   // spring, summer, autumn (fall), winter. весна, літо, осінь (осінь), зима.
